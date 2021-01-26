@@ -10,6 +10,11 @@ namespace Projeto_das_galaxias
     {
         static void Main(string[] args)
         {
+            double batata = 2.08;
+            char frita = 'a';
+            string oléo = "cozinhar";
+            int arroz = 2;
+                
         }
     }
 }
